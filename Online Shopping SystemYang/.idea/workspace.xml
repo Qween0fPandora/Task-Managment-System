@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b6dc0bd-f5fa-4a7e-9318-b418f56569d0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../2023Fall/COMP2011/A2_22097304d_ShenZitong/A2_22097304d_ShenZitong.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2023Fall/COMP2011/A2_22097304d_ShenZitong/out/production/A2_22097304d_ShenZitong/A2_22097304d_ShenZitong.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2023Fall/COMP2011/a1_22097304d_ShenZitong/a1_22097304d_ShenZitong.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2023Fall/COMP2011/a1_22097304d_ShenZitong/out/production/a1_22097304d_ShenZitong/a1_22097304d_ShenZitong.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2023Fall/COMP2021/Assignment1(1)/Assignment1(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2023Fall/COMP2021/Assignment1(1)/Assignment1/Assignment1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2023Fall/COMP2021/Assignment2/assignment2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2023Fall/COMP2021/Group1/Source Code/Project/.idea/SampleProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2023Fall/COMP2021/Group1/Source Code/Project/tms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2023Fall/COMP2021/Group1/Source Code/Source Code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2023Fall/COMP2021/lab3/LAB3/LAB3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2023Fall/COMP2021/lab4/LAB4/LAB4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2023Fall/COMP2021/面向对象/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2023Fall/COMP2021/面向对象/面向对象.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2023Fall/COMP2411/Testing/Testing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A2dhh/Assignment2/assignment2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dorj/Online Shopping System/Online Shopping System.iml" afterDir="false" />
+    </list>
+    <list id="5b51a5a0-cc65-400e-a58c-056b83663a59" name="Changes by dorjderem" comment="" />
+    <list id="09b7e141-aba4-4e1b-89e9-cea5df597c7a" name="Changes by wangzian" comment="" />
+    <list id="d83198d7-7240-4108-b9de-f47d8cc21a4c" name="Changes by yikchunnnn" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2YlTbbcwhucqpfnc4HgJrzyqLSk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ToolWindowCode With Me.ShowToolbar": "false",
+    "WebServerToolWindowFactoryState": "false",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/shenzitong/Desktop/Online Shopping SystemYang",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/shenzitong/Desktop/2023Fall/COMP2411/Online Shopping System/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "CodeWithMe",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "oracle"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="view" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.controller.Main">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="Online Shopping System" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckInPage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheckInPage" />
+      <module name="Online Shopping System" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Online Shopping System" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="controller.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controller.Main" />
+      <module name="Online Shopping System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.controller.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.CheckInPage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b6dc0bd-f5fa-4a7e-9318-b418f56569d0" name="Changes" comment="" />
+      <created>1701099239391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701099239391</updated>
+      <workItem from="1701099240746" duration="7622000" />
+      <workItem from="1701184195396" duration="981000" />
+      <workItem from="1701186185253" duration="27298000" />
+      <workItem from="1701265208672" duration="28057000" />
+      <workItem from="1701330673199" duration="29897000" />
+      <workItem from="1701430308621" duration="5190000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
